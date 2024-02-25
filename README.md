@@ -27,7 +27,8 @@ This Power BI project analyzes a sales transaction data set of UK-based e-commer
 
   ## Screenshots
 
-![Sales Overview page]
+![Sales Overview page](https://github.com/AlinaB88/Power-BI-Report/issues/1#issue-2152796490)
+![Sales Overview Info Panel]
 
 
  
