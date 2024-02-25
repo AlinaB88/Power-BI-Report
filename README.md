@@ -1,8 +1,8 @@
 # E-Commerce Business Analysis Project in Power BI
 
 ## Project Overview:
-This Power BI project analyzes sales performance data to identify trends and make data-driven decisions. It is designed for sales managers and executives to track key performance metrics.
-
+This Power BI project analyzes a sales transaction data set of UK-based e-commerce (data source [Kaggle](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business)) to identify trends and make data-driven decisions. It is designed for sales managers and executives to track key performance metrics.
+   The report highlights sales trend over time, sales month on month growth, number of transactions (settled and cancelled) and products over customers, KPI's sales and KPI's on price category, distribution of prices over units sold.
 
 ## Skills Utilized:
 - Data analysis and visualization.
@@ -24,5 +24,12 @@ This Power BI project analyzes sales performance data to identify trends and mak
 2. Use bookmarks, selections, and buttons to navigate between different sections of the report.
 3. Swipe through visuals to analyze sales trends and patterns.
 5. Refer to the info panel for explanations on how to navigate the report.
+
+  ## Screenshots
+
+![Sales Overview page]("C:\Users\merca\Pictures\Screenshots\Sales Overview.png")
+
+
+ 
 
    
