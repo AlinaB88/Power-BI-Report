@@ -27,7 +27,7 @@ This Power BI project analyzes a sales transaction data set of UK-based e-commer
 
   ## Screenshots
 
-![Sales Overview page]("C:\Users\merca\Pictures\Screenshots\Sales Overview.png")
+![Sales Overview page]
 
 
  
